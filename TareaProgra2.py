@@ -1,5 +1,5 @@
 # Programa que determina el resultado de la siguiente operacion matematica usando funciones
-# Autor: Javier Vargas   Seccion: 3031A   CI: 28.745.677    Area: Programacion II
+# Autor: Javier Vargas   Seccion: 3031A  
 
 def my_fuction():
     a = 3               # Primer valor 
